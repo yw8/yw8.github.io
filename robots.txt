@@ -13,5 +13,5 @@ Allow: /images/
 Allow: /js/
 Allow: /lib/
 
-Sitemap: https://yanw.wang/sitemap.xml
-Sitemap: https://yanw.wang/baidusitemap.xml
+Sitemap: https://yanw.top/sitemap.xml
+Sitemap: https://yanw.top/baidusitemap.xml
